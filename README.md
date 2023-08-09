@@ -37,9 +37,9 @@ To set up your campfire for local development:
       ```bash
    npm install
 4. Ignite the development fire:
- ```bash
+   ```bash
    npm start
-   
+    ```
 6. Behold, as the local development server unfurls in your browser 🌄.
 
 
