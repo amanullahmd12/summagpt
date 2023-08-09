@@ -37,6 +37,12 @@ To set up your campfire for local development:
       ```bash
    npm install
 4. Ignite the development fire:
+ ```bash
    npm start
    
 6. Behold, as the local development server unfurls in your browser 🌄.
+
+
+## Thank You 🙌
+
+A heartfelt thank you for visiting SummaGPT. Your enthusiasm fuels my journey to make summarization a breeze with SummaGPT!
